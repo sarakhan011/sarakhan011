@@ -5,10 +5,15 @@
 I'm an aspiring Software Engineer passionate about building practical software solutions, learning backend development, and improving my problem-solving skills through coding.
 
 -🔭 Building: WorkTrack — a database-driven Employee Management System
+
 -⚙️ Core Focus: Backend Development, REST API Design, and Database Management
+
 -💻 Technologies: Python, C++, Flask, SQL, and MySQL
+
 -🧪 Quality Engineering: API Testing, Postman, Pytest, and debugging
+
 -🧠 Problem Solving: Data Structures, Algorithms, and Object-Oriented Programming
+
 -🎯 Current Goal: Build maintainable, scalable applications while strengthening my software engineering and system design skills.
 ---
 
