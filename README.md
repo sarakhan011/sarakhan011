@@ -5,15 +5,10 @@
 I'm an aspiring Software Engineer passionate about building practical software solutions, learning backend development, and improving my problem-solving skills through coding.
 
 -🔭 Building: WorkTrack — a database-driven Employee Management System
-
 -⚙️ Core Focus: Backend Development, REST API Design, and Database Management
-
 -💻 Technologies: Python, C++, Flask, SQL, and MySQL
-
 -🧪 Quality Engineering: API Testing, Postman, Pytest, and debugging
-
 -🧠 Problem Solving: Data Structures, Algorithms, and Object-Oriented Programming
-
 -🎯 Current Goal: Build maintainable, scalable applications while strengthening my software engineering and system design skills.
 ---
 
@@ -47,29 +42,13 @@ I'm an aspiring Software Engineer passionate about building practical software s
 ### 🚀 Featured Project
 
 - WorkTrack REST API ➡️ Employee management REST API
-
 - SheSafe ➡️ Personal security application
-
 - Flight Center ➡️ Desktop airline management application
-
 - Finite Automata Simulator ➡️ Simulation of finite automata
-
 - Token Craft ➡️ Lexical analyzer
-
 - Turing Lab ➡️ Turing machine simulator
-
 - Regex to Automata ➡️ Regular expression converter
-
 - Mini Compiler ➡️ A small compiler project
 
-### 🧠 Problem Solving
 
-Enjoy practicing programming problems involving:
-
-- Arrays and Strings
-- Linked Lists
-- Searching and Sorting
-- Hash Maps and Dictionaries
-- Object-Oriented Programming
-- Basic Algorithms and Data Structures
 
