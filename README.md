@@ -15,6 +15,7 @@ I'm an aspiring Software Engineer passionate about building practical software s
 -🧠 Problem Solving: Data Structures, Algorithms, and Object-Oriented Programming
 
 -🎯 Current Goal: Build maintainable, scalable applications while strengthening my software engineering and system design skills.
+
 ---
 
 ### 🧰 Languages and Tools
